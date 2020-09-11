@@ -9,3 +9,14 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: 
 
+Anime profile pictures are the future and you just have to accept that into your life :smile: 
+
+About me:
+Born in 1991 in Wales (UK) :uk: originally learned how to code in C++ but did have a few years where I was in love with ActionScript and did some pretty cool stuff there (all lost to time). Went to college got a BTEC National Diploma in computing and then moved to England for University and earned a BsC in computer science, have been coding professionally for around 6 years.
+
+Main languages: C#, JavaScript/TypeScript, SQL, HTML
+Want to learn: functional type language (maybe F#)
+
+Hobbies:
+Love me some music, learning to play the guitar.
+Runner 
